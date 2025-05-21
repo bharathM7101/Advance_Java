@@ -1,1 +1,1 @@
-Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/6b.servlet_program/6b.jpeg
+Output-https://github.com/bharathM7101/Advance_Java/blob/main/6b.servlet_program/6c.jpg
