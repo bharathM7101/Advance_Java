@@ -22,7 +22,7 @@ Output for LinkedList
 
 1c. Linked List Programs
 
-1.output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112116.png
+1.output for LinkeslistIterator-https://github.com/bharathM7101/Advance_Java/blob/main/1c.Linked_List/1c.Linked_List/LinkedListElementPositions.png
 
 2.output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20111953.png
 
