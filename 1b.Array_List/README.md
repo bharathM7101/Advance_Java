@@ -3,6 +3,6 @@ output for ColorSort-https://github.com/bharathM7101/Advance_Java/blob/main/1b.A
 
 output for Searchcolor-https://github.com/bharathM7101/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105536.png
 
- output for colorRemoveByindex-https://github.com/bharathM7101/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20110427.png
+ output for colorRemoveByindex-//https://github.com/bharathM7101/Advance_Java/blob/main/1b.Array_List/Screenshot%202025-05-18%20110427.png
 
-output for colorSubList-https://github.com/bharathM7101/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
+output for colorSubList-https://github.com/bharathM7101/Advance_Java/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
