@@ -54,15 +54,15 @@ output for StringOperationDemo-https://github.com/bharathM7101/Advance_Java/blob
 
 3b. String Exercise progams
 
-1.output for NullOrWhitespaceChech-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20120935.png
+1.output for NullOrWhitespaceChech-https://github.com/bharathM7101/Advance_Java/blob/main/3b.String_Exerice/st.jpg
 
-2.output for SubStringCounter-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121159.png
+2.output for SubStringCounter-https://github.com/bharathM7101/Advance_Java/blob/main/3b.String_Exerice/Sub.jpg
 
-3.output for ReverseStringDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121313.png
+3.output for ReverseStringDemo-https://github.com/bharathM7101/Advance_Java/blob/main/3b.String_Exerice/R.jpg
 
-4.output for palindtomeChecker-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121443.png
+4.output for palindtomeChecker-https://github.com/bharathM7101/Advance_Java/blob/main/3b.String_Exerice/p.jpg
 
-5.output for WhiteSoaceRemover-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121554.png
+5.output for WhiteSoaceRemover-https://github.com/bharathM7101/Advance_Java/blob/main/3b.String_Exerice/WS.jpg
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
