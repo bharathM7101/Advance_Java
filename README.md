@@ -100,7 +100,7 @@ Output--https://github.com/bharathM7101/Advance_Java/blob/main/4c.Swing_Programm
 
 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display them on console whenever the countries are selected on the list.
 
-Output for CountryListDemo--https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/5a.Swing_program/Screenshot%202025-05-18%20133950.png
+Output for CountryListDemo-https://github.com/bharathM7101/Advance_Java/blob/main/5a.Swing_program/Screenshot%202025-05-22%20151940.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
