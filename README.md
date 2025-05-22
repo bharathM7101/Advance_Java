@@ -22,15 +22,15 @@ output for colorSubList-https://github.com/bharathM7101/Advance_Java/blob/main/1
 
 1c. Linked List Programs
 
-1.output for LinkeslistIterator-https://github.com/bharathM7101/Advance_Java/blob/main/1c.Linked_List/1c.Linked_List/LinkedListElementPositions.png
+1.output for LinkeslistIterator-https://github.com/bharathM7101/Advance_Java/blob/main/1c.LinkedList/o.jpg
 
-2.output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20111953.png
+2.output for ListElementPositions-https://github.com/bharathM7101/Advance_Java/blob/main/1c.LinkedList/Position.jpg
 
-3.output for ListOfferLast-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112209.png
+3.output for ListOfferLast-https://github.com/bharathM7101/Advance_Java/blob/main/1c.LinkedList/Orginal%20list.jpg
 
-4.output for ListReverseIteration-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112259.png
+4.output for ListReverseIteration-https://github.com/bharathM7101/Advance_Java/blob/main/1c.LinkedList/Reverse%20Order.jpg
 
-5.output for LinkedListSwapElement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112357.png
+5.output for LinkedListSwapElement-https://github.com/bharathM7101/Advance_Java/blob/main/1c.LinkedList/LinkedList%20Element.jpg
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
