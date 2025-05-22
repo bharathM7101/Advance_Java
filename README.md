@@ -36,19 +36,19 @@ output for colorSubList-https://github.com/bharathM7101/Advance_Java/blob/main/1
 
 2 a. Develop a java program for performing various string operations with different stringhandling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email withcontains( ) and startsWith() and endsWith()
 
-output for StringOperationDemoo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2a.string_operations/Screenshot%202025-05-18%20113921.png
+output for StringOperationDemoo-https://github.com/bharathM7101/Advance_Java/blob/main/2a.string_operations/2a.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 2b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder forappending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
-output for StringBufferVsStringBuilderPerformance-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2b.StringBuffer_and_StringBuilder/Screenshot%202025-05-18%20115119.png
+output for StringBufferVsStringBuilderPerformance-https://github.com/bharathM7101/Advance_Java/blob/main/2b.StringBuffer_and_StringBuilder/2B.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 3a. Develop a java program for performing various string operations with different stringhandling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) andstartsWith() and endsWith()
 
-output for StringOperationDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3a.string_handling/Screenshot%202025-05-18%20115911.png
+output for StringOperationDemo-https://github.com/bharathM7101/Advance_Java/blob/main/3a.string_handling/3A.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
