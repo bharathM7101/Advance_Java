@@ -147,7 +147,7 @@ Output for sessionManagement--https://github.com/bharathM7101/Advance_Java/blob/
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
 
-Output for cookieManagemnet-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/7b.Cookie_Management/7b.jpeg
+Output for cookieManagemnet-https://github.com/bharathM7101/Advance_Java/blob/main/7b.Cookie_Management/cookieManagement.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
